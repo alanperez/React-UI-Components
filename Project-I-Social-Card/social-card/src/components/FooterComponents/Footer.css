@@ -1,3 +1,11 @@
 .foot-container {
     margin: 10px auto;
 }
+.far {
+    margin: 0 20px;
+    color: gray;
+}
+.fas {
+    margin: 0 20px;
+    color: gray;
+}

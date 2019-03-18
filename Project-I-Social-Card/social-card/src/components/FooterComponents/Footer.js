@@ -9,10 +9,10 @@ const Footer = () => {
     return (
          <div className="foot-container">
          <div className="fa-icons">
-         <i class="far fa-comment">1</i>
-         <i class="fas fa-retweet">2</i>
-         <i class="far fa-heart">3</i>
-         <i class="far fa-envelope">4</i>
+         <i className="far fa-comment">  </i>
+         <i className="fas fa-retweet">  6</i>
+         <i className="far fa-heart">  4</i>
+         <i className="far fa-envelope">  </i>
          
 
          </div>
