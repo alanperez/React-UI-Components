@@ -1,0 +1,19 @@
+.foot-container {
+    margin: 10px auto;
+}
+.far {
+    margin: 0 20px;
+    text-decoration: none;
+    
+}
+
+.fas {
+    margin: 0 20px;
+    text-decoration: none;
+    
+}
+
+a { color:gray; }
+a:hover {
+    color:red;
+}

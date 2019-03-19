@@ -1,1 +1,42 @@
 /* All styles for your header Components live here */
+/* body {
+    display: flex;
+  justify-content: center;
+} */
+.head-container {
+    display: flex;
+    /* height: 50px; */
+  padding: 10px;
+
+}
+
+   .img-logo {
+    height: 50px;
+    padding: 10px;
+   }
+.header-title {
+    font-size: 14px;
+  font-weight: 600;
+  padding: 0 10px;
+}
+   .para-text {
+       font-size: 14px;
+   }
+
+   .header-content {
+       font-size: 4rem;
+       font-weight: 600;
+
+
+   }
+   .header-title-info
+   {
+    display: flex;
+    flex-flow: wrap;
+   }
+   .date {
+    font-weight: 400;
+    padding: 10px;
+    color:gray;
+  }
+  
