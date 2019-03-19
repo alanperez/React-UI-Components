@@ -5,9 +5,9 @@
 } */
 .head-container {
     display: flex;
-    height: 100px;
+    /* height: 50px; */
   padding: 10px;
-  width: 100%;
+
 }
 
    .img-logo {
@@ -29,3 +29,13 @@
 
 
    }
+   .header-title-info
+   {
+    display: flex;
+    flex-flow: wrap;
+   }
+   .date {
+    font-weight: 400;
+    padding: 10px;
+  }
+  
