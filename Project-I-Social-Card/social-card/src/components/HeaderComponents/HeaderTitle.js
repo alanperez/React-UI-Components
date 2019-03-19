@@ -11,7 +11,7 @@ const HeaderTitle = () => {
         <div className="header-title">
         <div className="header-title-info">
         <h1>LambdaSchool</h1>
-        <p className="date">@lambdaschool {time.format('Do MMM ')}</p>
+        <p className="date">@lambdaschool • {time.format('Do MMM ')}</p>
         
         <HeaderContent />
         </div>

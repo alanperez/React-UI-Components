@@ -3,10 +3,17 @@
 }
 .far {
     margin: 0 20px;
-    color: gray;
+    text-decoration: none;
+    
 }
+
 .fas {
     margin: 0 20px;
-    color: gray;
+    text-decoration: none;
     
+}
+
+a { color:gray; }
+a:hover {
+    color:red;
 }
