@@ -1,0 +1,15 @@
+.red {
+    width: 100%;
+    color: white;
+    background-color: #931C24;
+}
+
+.white {
+    width: 100%;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+}
+.big{
+    width: 100%;
+}
