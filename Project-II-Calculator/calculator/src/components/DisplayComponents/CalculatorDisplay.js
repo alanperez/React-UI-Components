@@ -21,10 +21,10 @@ const CalculatorDisplay = () => {
                 <NumberButton styles="white" text="1" />
                 <NumberButton styles="white" text="2" />
                 <NumberButton styles="white" text="3" />
-                <NumberButton styles="white" text="0" />
+                <NumberButton styles="big white" text="0" />
             </div>
         <div className="right-side">
-                <ActionButton styles="red" text="/"  />
+                <ActionButton styles="red" text="÷"  />
                 <ActionButton styles="red" text="X"  />
                 <ActionButton styles="red" text="-"  />
                 <ActionButton styles="red" text="+"  />
